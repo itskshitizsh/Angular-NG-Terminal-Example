@@ -1,6 +1,9 @@
-# ShellInUi
+# Angular Example of Using NG-Terminal(ShellInUi)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+
+## Running UI ScreenShot
+![image](https://user-images.githubusercontent.com/24621468/195523982-9f63273b-7dca-40c4-9f36-c27580bea93c.png)
 
 ## Development server
 
